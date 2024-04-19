@@ -3,8 +3,8 @@
   "type": "raw-package",
   "blockId": "XWkNxDZi8qkQk3pLzbUgX",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/test_rawpackage.git",
+    "ssh": "git@github.com:grgshiji/test_rawpackage.git",
     "branch": "block_test_rawpackage"
   },
   "parentBlockIDs": [],
