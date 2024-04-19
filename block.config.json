@@ -1,0 +1,17 @@
+{
+  "name": "test_rawpackage",
+  "type": "raw-package",
+  "blockId": "XWkNxDZi8qkQk3pLzbUgX",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_test_rawpackage"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs"
+}
